@@ -1,0 +1,10 @@
+{
+  "title": "Excluir conexão",
+  "deletingConnectionMessage": "A conexão <strong>{{name}}</strong> será deletada permanentemente.",
+  "confirmDeletionMessage": "Por favor, confirme sua ação digitando <strong>DELETE</strong> abaixo:",
+  "form": {
+    "cancel": "Cancelar",
+    "confirmDeletion": "Excluir",
+    "unconfirmedDeletionError": "Erro ao confirmar deleção."
+  }
+}

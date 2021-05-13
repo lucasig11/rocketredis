@@ -1,0 +1,14 @@
+{
+  "newConnectionTitle": "Nova conexão",
+  "editConnectionTitle": "Editar conexão",
+  "form": {
+    "name": "Nome da conexão",
+    "host": "Host",
+    "port": "Porta",
+    "password": "Senha",
+    "passwordHint": "Deixe em branco caso não haja senha",
+    "test": "Testar conexão",
+    "cancel": "Cancelar",
+    "save": "Salvar"
+  }
+}

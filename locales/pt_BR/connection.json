@@ -1,0 +1,12 @@
+{
+  "connectionFailed": "A conexão falhou.",
+  "keys": "chaves",
+  "retry": "Tentar novamente?",
+  "contextMenu": {
+    "connect": "Conectar",
+    "disconnect": "Desconectar",
+    "editSettings": "Editar configurações",
+    "refreshDatabases": "Atualizar bases de dados",
+    "deleteConnection": "Deletar conexão"
+  }
+}
